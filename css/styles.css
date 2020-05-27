@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.container-fluid{
+  text-align: center;
+  padding: 10% 15%;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  color: black;
+}
+.signin{
+  padding: 3% 0%;
+}
+.forms{
+  text-align: left;
+  padding: 5% 30%;
+}
+a{
+  padding: 2% 1%;
+}
